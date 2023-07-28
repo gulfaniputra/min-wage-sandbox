@@ -4,7 +4,7 @@ _Note: this sandbox is still a work in progress._
 
 ## Live Preview
 
-https://gulfaniputra.github.io/udin-bps-sandbox/
+https://gulfaniputra.github.io/udin-webapi-bps/
 
 ## About
 
